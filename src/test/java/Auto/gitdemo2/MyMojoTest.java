@@ -46,6 +46,7 @@ public class MyMojoTest
 
         File touch = new File( outputDirectory, "touch.txt" );
         assertTrue( touch.exists() );
+         // I am testing 
 
     }
 
